@@ -3,7 +3,7 @@ import UserContext from "./context/UserContext";
 
 function App() {
   // let user = "John";
-  let obj = {id:1,name:"abc",city:"xyz"};
+  let obj = {id:1,name:"Annie",city:"Jalandhar"};
 
   return (
     <>
